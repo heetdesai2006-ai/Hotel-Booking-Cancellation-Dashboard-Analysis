@@ -4,7 +4,7 @@ Hotel Booking Cancellation Analysis project that uses KPI-driven dashboards to i
 ## Dataset used
 - <a href="https://docs.google.com/spreadsheets/d/1ykQ15JwMvEjOIQwAMgoV__YWXsn4ZH7rF8uUKH7ODos/edit?usp=sharing"> Dataset</a>
 
-## KPis
+## KPI's
 - Total number of bookings
 - Total number of cancellations
 - Cancellation rate by channel
