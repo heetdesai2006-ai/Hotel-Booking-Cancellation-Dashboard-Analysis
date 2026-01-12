@@ -5,13 +5,13 @@ Hotel Booking Cancellation Analysis project that uses KPI-driven dashboards to i
 - <a href="https://docs.google.com/spreadsheets/d/1ykQ15JwMvEjOIQwAMgoV__YWXsn4ZH7rF8uUKH7ODos/edit?usp=sharing"> Dataset</a>
 
 ## KPis
-Total number of bookings
-Total number of cancellations
-Cancellation rate by channel
-Repeat vs new guest cancellation behavior
-Guest type vs average revenue (ADR)
-Channel-wise cancellation risk
-Revenue quality by guest segment
+- Total number of bookings
+- Total number of cancellations
+- Cancellation rate by channel
+- Repeat vs new guest cancellation behavior
+- Guest type vs average revenue (ADR)
+- Channel-wise cancellation risk
+- Revenue quality by guest segment
 
 ## Process Followed
 Data cleaning and formatting
