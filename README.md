@@ -22,4 +22,4 @@ Dashboard creation for visualization
 Interpretation of insights for business decision-making
 
 ## Dashboard
-- <a href="https://docs.google.com/spreadsheets/d/1ykQ15JwMvEjOIQwAMgoV__YWXsn4ZH7rF8uUKH7ODos/edit?usp=sharing"> Dataset</a>
+- <a href="https://docs.google.com/spreadsheets/d/1ykQ15JwMvEjOIQwAMgoV__YWXsn4ZH7rF8uUKH7ODos/edit?usp=sharing"> Dashboard</a>
